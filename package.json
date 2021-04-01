@@ -3,7 +3,7 @@
   "name": "my_portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gatsby-browser.js",
   "scripts": {
     "deploy": "gh-pages -d my_portfolio"
   },
